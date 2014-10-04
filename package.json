@@ -1,0 +1,21 @@
+{
+  "name": "node-red-hive",
+  "version": "0.0.0",
+  "description": "",
+  "main": "99-hive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jh71283/node-red-hive.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/jh71283/node-red-hive/issues"
+  },
+  "dependencies": {
+    "node-hive-api": "~0.1.9"
+  }
+}
